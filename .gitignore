@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv*/
+.venv*/
+
+# Datasets / personal files not distributed with the repo
+fer2013-emotion-recognition/data/
+fer2013-emotion-recognition/My_imgs/
+
+# Large model artifacts
+*.onnx.data
+fer2013-emotion-recognition/models/fer2013_ResNet18.onnx
+
+# Local tooling / OS / IDE
+.tools/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
