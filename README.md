@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-A collection of machine learning projects I built during my Computer Science (BSc) and Cybersecurity (MSc) studies at VSB – Technical University of Ostrava. They cover classical ML on game data, deep learning with PyTorch, unsupervised player profiling, and search-based game AI.
+A collection of interesting machine learning projects I built during my Computer Science (BSc) and Cybersecurity (MSc) studies at VSB – Technical University of Ostrava. They cover classical ML on game data, deep learning with PyTorch, unsupervised player profiling, and search-based game AI.
 
 | Project | Topic | Tech | Headline result |
 |---|---|---|---|
